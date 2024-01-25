@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+font-family: 'Raleway',sans-serif:
+text-align:center;
+     justify-content:space-around;
+ height:100%;
+align-items: center;
+background:linear-gradient(#E0B4F1,white ,#E5C6F1);
+}</style>
+</head>
+<body align="center">
+<h1 style="text-align:center;"><u>MySchool</u></h1>
+<img src="school.jpg" alt="school" width="260" height="160">
+<h2 style="text-align:center;" >My school's name is Shloka school</h2>
+<p style="text-align:center;">My School was   established in 2020<br>
+We have many practical labs and a big library
+<br>Our all teachers and staff is very friendly
+<br>Education a necessity is our tagline</p>
+<h1>Gallery</h1>
+<img src="school1.jpg" alt="school1" width="260" height="160">
+
+</body>
+</html>
+
+
+
+
