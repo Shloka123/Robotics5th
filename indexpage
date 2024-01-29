@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Javascript Javascripting - EU</title>
+</head>
+<body>
+    <script>
+    let option =  prompt("Hey my friend, do you like potatoes? Yes/No/Dunno");
+    if (option == "Yes") {
+        //display 7 levels of potatos
+        for(i=1; i <=7; i++){
+            if(i == 1)
+            document.write('#<br>');
+            if(i == 2)
+            document.write('##<br>');
+            if(i == 3)
+            document.write('###<br>');
+            if(i == 4)
+            document.write('####<br>');
+            if(i == 5)
+            document.write('#####<br>');
+            if(i == 6)
+            document.write('######<br>');
+            if(i == 7)
+            document.write('#######<br>');
+        }
+    }
+    else if(option == "No") {
+        alert("Bah. I'm disappointed.");
+    }
+    else {
+        alert("I'm not sure.");
+    }
+    </script>
+</body>
+</html>
+@Shloka123
+Comment
